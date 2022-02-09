@@ -1,0 +1,27 @@
+.py {
+    font-size: 80%;
+    color: #c00;
+    display: table-row;
+}
+
+.zh {
+    display: table-row;
+}
+
+.ann {
+    text-align: center;
+    white-space: nowrap;
+    display: inline-block;
+    margin: 0 0.3ex;
+    cursor: default;
+    z-index: 99;
+}
+
+.annThin {
+    text-align: center;
+    white-space: nowrap;
+    display: inline-block;
+    margin: 0 0;
+    cursor: default;
+    z-index: 99;
+}
